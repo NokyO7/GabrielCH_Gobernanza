@@ -16,7 +16,7 @@ Los _actores clave_ incluyen al **MOPT** y al **CTP** como cuerpos gobernantes, 
 
 Frente a esta situación, la creación de un **Comité Directivo Técnico** se plantea como una medida estratégica y necesaria para impulsar una gobernanza digital sólida, coordinada y centrada en las necesidades del usuario.
 
-![Diagrama Comité Directivo Técnico](gobernanza.svg)
+![Diagrama Comité Directivo Técnico](gobernanza_mermaid.svg)
 
 ---
 
